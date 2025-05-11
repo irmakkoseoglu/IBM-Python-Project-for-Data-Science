@@ -1,6 +1,6 @@
 # IBM-Python-Project-for-Data-Science
 
-This repository contains my submission for the project of the "IBM Data Science Professional Certificate" course on Coursera.
+This repository contains my submission for the project of the **IBM Data Science Professional Certificate** course on Coursera.
 
 ## Project Overview
 
