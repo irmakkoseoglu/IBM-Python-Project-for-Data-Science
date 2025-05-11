@@ -30,7 +30,7 @@ In this project, I used **Python**, **Pandas**, **BeautifulSoup**, **yfinance**,
 
 ## Files in This Repository
 
-- `Final Project Notebook.ipynb` – The main Jupyter Notebook containing all code
+- `Final Assignment.ipynb` – The main Jupyter Notebook containing all code
 - `README.md` – Project description and usage information
 
 ## Contact
